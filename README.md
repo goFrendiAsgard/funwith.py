@@ -16,7 +16,7 @@ The book will be written in IPython Notebook, and licensed as creative-common
 Milestone
 =========
 
-I'll finish those 6 books in 3 years, each book will be finished in 6 semester
+I'll finish those 6 books in 3 years, each book will be finished in a semester
 * `Fun with Python` will be released on 2015-06-30
 * `Fun with Math` will be released on 2015-12-31
 * `Fun with Data` will be released on 2016-06-30
