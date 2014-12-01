@@ -5,13 +5,26 @@ This is my first open-source books about having fun with python.
 There will be several books:
 
 * Fun with Python (newbie-intermediate, basic, ipython-notebook)
+    *  Preparation
+    *  Input, Output, and Variables
+    *  List and Dictionary
+    *  Branch Control
+    *  Loop Control
+    *  Function
+    *  Class
+    *  Kivy
 * Fun with Math (doing plotting, solve equations with Python)
+    * Numpy
+    * Matplotlib
+    * LATEX
+    * ...
 * Fun with Data (doing data analysis and visualize data with Python)
 * Fun with Artificial-Intelligence (doing classification and other AI-tasks with Python)
 * Fun with Micropython (doing hardware related things)
 * Fun with me (autobiography of me)
 
-The book will be written in IPython Notebook, and licensed as creative-common
+The book will be written in IPython Notebook, and licensed as creative-common.
+Click [here](http://nbviewer.ipython.org/github/goFrendiAsgard/funwith.py/tree/master/) to see the book.
 
 Milestone
 =========
