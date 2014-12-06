@@ -1,47 +1,102 @@
 Funwith.py
 ==========
 
-This is my first open-source books about having fun with python.
-There will be several books:
+Buku tentang bahasa pemrograman Python dalam bahasa Indonesia.
+Buku ini dirancang untuk mereka yang sudah terbiasa menggunakan komputer, khususnya mahasiswa & pelajar.
 
-* Fun with Python (newbie-intermediate, basic, ipython-notebook)
-    *  Preparation
-    *  Input, Output, and Variables
-    *  List and Dictionary
-    *  Branch Control
-    *  Loop Control
-    *  Function
-    *  Class
-    *  Kivy
-* Fun with Math (doing plotting, solve equations with Python)
-    * Numpy
-    * Matplotlib
-    * LATEX
-    * ...
-* Fun with Data (doing data analysis and visualize data with Python)
-* Fun with Artificial-Intelligence (doing classification and other AI-tasks with Python)
-* Fun with Micropython (doing hardware related things)
-* Fun with me (autobiography of me)
+Outline
+=======
 
-The book will be written in IPython Notebook, and licensed as creative-common.
-Click [here](http://nbviewer.ipython.org/github/goFrendiAsgard/funwith.py/tree/master/) to see the book.
+* Python untukmu
+    * Pengenalan & Persiapan
+        * Pengenalan komputer
+        * Algoritma
+        * Bahasa Pemrograman
+        * Menginstall Python
+    * Dasar
+        * Nilai,
+        * Variable
+        * Operasi
+        * Output
+        * Input
+    * Percabangan
+        * If
+    * Perulangan
+        * while
+        * for
+    * List dan Dictionary
+        * List
+            * Inisialisasi
+            * Operasi umum
+            * Traversing
+        * Dictionary
+            * inisialisasi
+            * Operasi umum
+            * Traversing
+    * Fungsi
+        * Membuat fungsi
+        * Memanggil fungsi
+    * Class
+        * Membuat dan menginisialisasi kelas
+        * Inherritance
+        * Multiple Inherritance
+    * Module
+        * Import
+        * Membuat modul sendiri
+        * Mengenal pip & module-module yang biasa digunakan
+    * Struktur data
+        * Stack & Queue Menggunakan List
+        * Linked List
+        * Tree
+        * Graph
+    * Database
+        * SQLite
+            * Insert, Update, Delete, Select
+        * Python & SQLite
+    * Tips & Trik Lanjut
+        * Percabangan menggunakan dictionary
+        * Functional Programming
+    * Pemrograman desktop & mobile menggunakan Kivy
+    * Pemrograman web menggunakan flask 
+
+* Python untuk matematika dan data science
+    * Dasar matematika & statistika
+    * IPython Notebook (Markdown & LATEX)
+    * Pengenalan Numpy
+    * Visualisasi data dengan Matplotlib
+    * Web scrapping
+
+* Python untuk Kecerdasan Buatan
+    * Searching
+    * Reasoning
+    * Planning
+    * Learning
+    * Soft Computing
+
+* Python untuk Robotika
+    * Elektronika dasar
+    * MicroPython
+    * Proyek sederhana
+        * LED & Push Button
+        * Piezo
+        * Sensor Sonar
+        * DC Motor
+
+Semua buku akan ditulis dalam format ipython-notebook 
+Klik di [sini](http://nbviewer.ipython.org/github/goFrendiAsgard/funwith.py/tree/master/) untuk membaca.
 
 Milestone
 =========
 
-I'll finish those 6 books in 3 years, each book will be finished in a semester
-* `Fun with Python` will be released on 2015-06-30
-* `Fun with Math` will be released on 2015-12-31
-* `Fun with Data` will be released on 2016-06-30
-* `Fun with Artificial Intelligence` will be released on 2016-12-31
-* `Fun with Micropython` will be released on 2017-06-30
-* `Fun with me` will be released on 2017-12-31
+Rangkaian buku ini diharapkan selesai dalam 3 tahun
+* Python untukmu 2015-06-30
+* Python untuk Matematika dan Science 2015-12-31
+* Python untuk Kecerdasan Buatan 2016-06-30
+* Python untuk Robotika 2016-12-31
 
-Motivation
+Motivasi
 ==========
 
-I like Python and I want to share why I like Python.
-These books will also be published as printed versions. Make sure you buy them if you think they are good books.
-It will support my life as an open-source author.
-
-![license](readme-resource/by-nc-nd.png "License")
+Memperkenalkan pemrograman kepada masyarakat Indonesia.
+Steve Jobs pernah berkata bahwa belajar coding adalah belajar berpikir, sehingga setiap orang perlu belajar coding.
+Python adalah bahasa pemrograman termudah bagi pemula.
