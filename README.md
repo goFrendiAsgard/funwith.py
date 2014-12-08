@@ -13,10 +13,10 @@ Outline
         * Algoritma
         * Bahasa Pemrograman
         * Menginstall Python
-    * Dasar
+    * Dasar Pemrograman
         * Nilai,
-        * Variable
         * Operasi
+        * Variable
         * Output
         * Input
     * Percabangan
